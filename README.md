@@ -1,5 +1,10 @@
 # Shopify App Template - Node
 
+## CREATE APP
+```
+$ npm init @shopify/app@latest
+```
+
 ### RUN COMMAND
 ngrokを使用しないとインストール出来ない
 ```
